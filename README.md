@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 3rd year Btech Student at CDGI Indore<br>Strong foundation in Core Java<br>Consistently practicing Data Structures & Algorithms<br>Development using MERN Stack<br>Exploring Backend Development using Spring Boot
+I'm currently a 4th year Btech Student at CDGI Indore<br>Strong foundation in Core Java<br>Consistently practicing Data Structures & Algorithms<br>Development using MERN Stack<br>Exploring Backend Development using Spring Boot
 
 
 ## 🌐 Socials:
